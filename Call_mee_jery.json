@@ -1,7 +1,1 @@
-echo "# Call_mee_jery" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Jery0843/Call_mee_jery.git
-git push -u origin main
+Call_mee_jery.hazzar
